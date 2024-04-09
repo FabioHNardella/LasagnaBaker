@@ -1,0 +1,14 @@
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\LasagnaBaker\obj\Debug\net8.0\Lasagna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\LasagnaBaker\obj\Debug\net8.0\Lasagna.AssemblyInfoInputs.cache
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\LasagnaBaker\obj\Debug\net8.0\Lasagna.AssemblyInfo.cs
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\LasagnaBaker\obj\Debug\net8.0\Lasagna.csproj.CoreCompileInputs.cache
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\LasagnaBaker\bin\Debug\net8.0\Lasagna.exe
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\LasagnaBaker\bin\Debug\net8.0\Lasagna.deps.json
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\LasagnaBaker\bin\Debug\net8.0\Lasagna.runtimeconfig.json
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\LasagnaBaker\bin\Debug\net8.0\Lasagna.dll
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\LasagnaBaker\bin\Debug\net8.0\Lasagna.pdb
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\LasagnaBaker\obj\Debug\net8.0\Lasagna.dll
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\LasagnaBaker\obj\Debug\net8.0\refint\Lasagna.dll
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\LasagnaBaker\obj\Debug\net8.0\Lasagna.pdb
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\LasagnaBaker\obj\Debug\net8.0\Lasagna.genruntimeconfig.cache
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\LasagnaBaker\obj\Debug\net8.0\ref\Lasagna.dll
